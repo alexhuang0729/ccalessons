@@ -1,3 +1,5 @@
+package java;
+
 public class Car implements Vehicle {
     private String brand;
 
@@ -10,7 +12,7 @@ public class Car implements Vehicle {
         return brand;
     }
 
-    @Override 
+    @Override
     public String accelerate() {
         return "Speeding up";
     }

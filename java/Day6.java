@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package java;
 
 public class Day6 {
     public static void main(String[] args) {
